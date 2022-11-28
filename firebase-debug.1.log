@@ -1,0 +1,21 @@
+[debug] [2022-11-25T19:18:38.536Z] ----------------------------------------------------------------------
+[debug] [2022-11-25T19:18:38.538Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Solsagan\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-11-25T19:18:38.539Z] CLI Version:   11.16.1
+[debug] [2022-11-25T19:18:38.539Z] Platform:      win32
+[debug] [2022-11-25T19:18:38.539Z] Node Version:  v16.16.0
+[debug] [2022-11-25T19:18:38.540Z] Time:          Fri Nov 25 2022 14:18:38 GMT-0500 (hora estándar de Colombia)
+[debug] [2022-11-25T19:18:38.540Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-11-25T19:18:38.548Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-11-25T19:18:38.549Z] > authorizing via signed-in user (jamb1993@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Solsagan\Documents\Sprint_4
+
